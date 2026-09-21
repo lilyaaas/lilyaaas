@@ -2,7 +2,7 @@
 
 - 🌱 I write **JavaScript**, **PHP**, and **C**
 - 💬 Ask me about **Full-Stack Development**
-- 🏗️ Currently a student at **1337 Coding School** (42 Network)
+- 🏗️ Currently a student at **1337 Coding School** _(42 Network)_
 - 🍁 Building things with **React**, **Laravel** & **Tailwind CSS**
 - ⚡ Check out my portfolio at [ilyaslhouari.netlify.app](https://ilyaslhouari.netlify.app/)
 
